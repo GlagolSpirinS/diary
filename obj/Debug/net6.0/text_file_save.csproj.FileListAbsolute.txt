@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.AssemblyInfo.cs
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\bin\Debug\net6.0\text_file_save.exe
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\bin\Debug\net6.0\text_file_save.deps.json
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\bin\Debug\net6.0\text_file_save.runtimeconfig.json
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\bin\Debug\net6.0\text_file_save.dll
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\bin\Debug\net6.0\text_file_save.pdb
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.dll
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\refint\text_file_save.dll
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.pdb
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\text_file_save.genruntimeconfig.cache
+C:\Users\root\Desktop\МПТ\СиШарп\text_file_save\text_file_save\obj\Debug\net6.0\ref\text_file_save.dll
